@@ -1,5 +1,6 @@
 body{
-    background-color: linear-gradient(to right, rgba(129, 119, 119, 0), rgb(68, 13, 13));
+    background-color: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1D9_kBWrJdJL7J4aDSALBPlamhR2zafdTQ&usqp=CAU);
+    background-size: contain;
 }
 h1{
     text-align: center;
@@ -17,7 +18,7 @@ h2{
 
 }
 img{
-    margin-left: 50%;
+    margin-left: 40%;
 }
 .form-group{
     text-align: center;
