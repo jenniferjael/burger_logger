@@ -16,15 +16,26 @@ h2{
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
+img{
+    text-align: center;
+    margin: 200px;
+}
+.form-group{
+    text-align: center;
+    background-color: whitesmoke;
+}
 #addBtn{
     text-align: center;
-    background-color: gray;
+    background-color: greenyellow;
 }
 ul{
     text-align: center;
     background-color: whitesmoke;
+padding: 100px;
 }
 li{
     text-align: center;
     background-color: whitesmoke;
+    padding: 100px;
+    list-style: none;
 }
