@@ -1,9 +1,5 @@
 body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1D9_kBWrJdJL7J4aDSALBPlamhR2zafdTQ&usqp=CAU);
-    background-color: #cccccc; /* Used if the image is unavailable */
-    background-size: 500px; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
+    background-color: #D2691E	rgb(210,105,30);
 }
 
 #burger_name{
