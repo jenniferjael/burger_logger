@@ -21,7 +21,7 @@ Create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM 
 
 ## Images:
 
- <img src="../public/assets/img/burgerapp300.png" alt='welcome page' width='50%' height='50%'>
+ <img src="public/assets/img/burgerapp300.png" alt='welcome page' width='50%' height='50%'>
 
 
 
