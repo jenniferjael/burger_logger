@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: linear-gradient(to right, rgba(129, 119, 119, 0), rgb(68, 13, 13));
 }
 h1{
     text-align: center;
@@ -17,25 +17,31 @@ h2{
 
 }
 img{
-    text-align: center;
-    margin: 200px;
+    margin-left: 50%;
 }
 .form-group{
     text-align: center;
     background-color: whitesmoke;
+    padding: 30px;
 }
 #addBtn{
-    text-align: center;
-    background-color: greenyellow;
+    margin-left: 50%;
+    background-color: gold;
 }
 ul{
     text-align: center;
     background-color: whitesmoke;
-padding: 100px;
+padding: 40px;
 }
 li{
     text-align: center;
     background-color: whitesmoke;
-    padding: 100px;
+    padding: 4px;
     list-style: none;
+}
+#eatBurgerBtn{
+    background-color: gold;
+}
+.delete-button{
+    background-color: gold;
 }
